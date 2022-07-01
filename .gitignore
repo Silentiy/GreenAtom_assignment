@@ -1,0 +1,7 @@
+venv/
+logs/
+minio/
+__pycache__/
+sql_part/__pycache/
+tests/.pytest_cache/
+*.db
